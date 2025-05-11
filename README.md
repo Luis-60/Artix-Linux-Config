@@ -40,3 +40,14 @@ OS: Artix Linux x86_64
   docker run hello-world \
   sudo usermod -aG docker $USER
   ```
+
+## Troubleshooting 
+
+*makepkg -si: ==> ERROR: cannot find fakeroot binary*
+
+*Explicação:* Não há bibliotecas para compilar pacotes
+
+*Solução:*
+```
+   sudo pacman -S base-devel
+   ```
