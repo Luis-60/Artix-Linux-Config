@@ -41,6 +41,13 @@ OS: Artix Linux x86_64
   sudo usermod -aG docker $USER
   ```
 
+## Instalação do yay 
+```
+   git clone https://aur.archlinux.org/yay.git \
+   cd yay \
+   makepkg -si
+   ```
+
 ## Troubleshooting 
 
 *makepkg -si: ==> ERROR: cannot find fakeroot binary*
