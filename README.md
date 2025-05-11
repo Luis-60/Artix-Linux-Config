@@ -4,7 +4,7 @@ Documentação de Configuração do Artix Linux
 
 ## Especificações do Sistema 
 
-``
+```
 OS: Artix Linux x86_64
                 'ooxoo'                    Host: 81FD (Lenovo ideapad 330-15IKB)
                'ooxxxoo'                   Kernel: Linux 6.14.5-artix1-1
@@ -29,7 +29,7 @@ OS: Artix Linux x86_64
                                            Local IP (wlan0): 192.168.0.8/24
                                            Battery (L16M2PB1): 100% [AC Connect]
                                            Locale: pt_BR.UTF-8
-``
+```
 ## Instalação do Docker
 
 ```
