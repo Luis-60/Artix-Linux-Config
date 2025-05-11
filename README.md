@@ -1,5 +1,5 @@
 # Artix-Linux-Config
-Documentação de Configuração do Artix Linux
+Guia de instalação e resolução de problemas usando Artix Linux XFCE OpenRC
 
 
 ## Especificações do Sistema 
