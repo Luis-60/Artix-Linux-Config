@@ -5,6 +5,7 @@ Documentação de Configuração do Artix Linux
 
 ```
   sudo pacman -S docker-openrc \
+  sudo pacman -S docker-compose \
   sudo rc-update add docker default \
   sudo rc-service docker start \
   docker run hello-world \
