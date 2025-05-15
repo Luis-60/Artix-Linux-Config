@@ -30,6 +30,11 @@ OS: Artix Linux x86_64
                                            Battery (L16M2PB1): 100% [AC Connect]
                                            Locale: pt_BR.UTF-8
 ```
+## Instalação do VS Code
+
+```
+ yay -S visual-studio-code-bin
+ ```
 ## Instalação do Docker
 
 ```
